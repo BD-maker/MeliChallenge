@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeLiChallenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_search_tittle">La comunidad de compra y venta más grande de América Latina</string>
+    <string name="fragment_visualization_tittle">Resultados de búsqueda</string>
+    <string name="fragment_detail_tittle">Detalle</string>
+    <string name="searchview_hint">Buscar en Mercado Libre</string>
+    <string name="toolbar_tittle">Mercado Libre Mobile Candidate</string>
+    <string name="fragment_search_description">Aplicacion para MercadoLibre Mobile Candidate <br></br>Dev: Bruno Diaz</string>
+    <string name="detail_description_text">Descripción</string>
+    <string name="search_slogan">Realiza una busqueda, ¡lo que querés te esta esperando!</string>
+    <string name="no_internet_title">¡Parece que no hay internet!</string>
+    <string name="no_internet_subtitle">Revisa tu conexión para seguir navengando</string>
+</resources>
